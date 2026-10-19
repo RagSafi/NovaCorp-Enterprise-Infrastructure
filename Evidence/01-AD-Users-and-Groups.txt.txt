@@ -1,0 +1,18 @@
+NovaCorp Enterprise Infrastructure
+Active Directory Validation
+
+Domain: crop.example.com
+
+User Accounts:
+- Raghad Alamri (RagAmri) - Enabled
+- Sara Ahmed (sahmed) - Enabled
+- Noura Khalid (nkhalid) - Enabled
+- Fahad Ali (fali) - Enabled
+
+Department Group Membership:
+- sahmed -> GG_IT_Staff: PASS
+- nkhalid -> GG_HR_Staff: PASS
+- fali -> GG_Finance_Staff: PASS
+
+Status: Validation successful
+Environment: Windows Server Active Directory lab
